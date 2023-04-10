@@ -1,0 +1,10 @@
+
+
+For this analysis, I compared the test results for math and reading between students based on multiple different attributes. These various attributes include: School, School Type, Grade, and Per Student Spending. I also created a list of the five top schools, five bottom schools and the overall district data.
+
+Results:
+1. The biggest result is the difference in performance between school types. Charter schools perform better than district schools in every catagory. While they out perform by 16% in reading, they out perform by over 25% in math and totals. This is also evident when you look at the top and bottom schools, all five of which are charter and district respectively.
+
+2.Large schools perform quite a bit worse than medium and small schools. The differential between small/medium schools and large schools is even larger than that between charter and district.
+
+While the numbers justify the previous claims, there are a few things that should be mentioned. First, these two statements could really be one. the majority of the large and small schools are charter shcools, while the district schools typically fall into the large category. Also, whether or not it's actually the size or schools that matters is unclear. It could be possible that charter school students have cetain qualities that cause them to do better. 
